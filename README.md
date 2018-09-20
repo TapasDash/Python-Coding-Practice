@@ -1,2 +1,1 @@
-# dummyProject
-my first ever repository
+These Python scripts I've coded while learning python
